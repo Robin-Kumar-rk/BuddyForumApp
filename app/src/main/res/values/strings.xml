@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BuddyForum</string>
+    <string name="aih">AI Integration for Complaint Categorization</string>
+    <string name="aip">Implement AI to automatically categorize and prioritize complaints based on content and user votes, improving the response time from relevant authorities.</string>
+    <string name="gh">Gamification</string>
+    <string name="gp">Incorporate game-like elements such as badges, leaderboards, and rewards for students who actively participate by submitting complaints or upvoting others issues.</string>
+    <string name="cbh">Chatbot Customization</string>
+    <string name="cbp">Allow users to interact with a customized chatbot that can provide personalized responses to complaint status, note sharing, and placement preparation tips.</string>
+    <string name="coding_block_h">Coding Blocks and Resource Sharing</string>
+    <string name="coding_block_p">Implement a feature for students to submit, share, and access code snippets, notes, and other study materials seamlessly. This section will have a built-in code editor for direct use.</string>
+</resources>
