@@ -39,6 +39,8 @@ android {
 }
 
 dependencies {
+    implementation("androidx.compose.material:material:1.7.5")
+    implementation("androidx.compose.ui:ui:1.7.5")
     implementation ("io.coil-kt:coil-compose:2.2.2")
     implementation ("androidx.appcompat:appcompat:1.6.1")
     implementation(libs.androidx.navigation.compose)
